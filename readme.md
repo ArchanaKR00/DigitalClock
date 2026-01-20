@@ -43,7 +43,7 @@ digital-clock/
 
 ![img](./digitalclock.png)
 
-![live@](https://digiclocktime.netlify.app/)
+[live@](https://digiclocktime.netlify.app/)
 
 
 ---
